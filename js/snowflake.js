@@ -1,4 +1,3 @@
-//
 class Snowflake {
   constructor(lowX, highX, lowY, highY, lowR, highR) {
     //Properties
